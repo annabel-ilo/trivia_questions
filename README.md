@@ -1,6 +1,6 @@
 # dev_annie
 
-Becoming a tech sis
+can you answer some trivia question?
 
 ## Getting Started
 
